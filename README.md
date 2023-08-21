@@ -12,3 +12,9 @@ this file contain code for the tables used in this game.this will be usefull to 
 #crud.py
 
 this file help users to insert new questions to this game 
+
+#data.py
+
+this file contains inser query for 2 tables.
+
+#connect.py this file contain database connection
